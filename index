@@ -1,0 +1,31 @@
+<DOCTYPE! HTML></DOCTYPE>
+<head>
+    <body>
+        <h1>Otilgan mavzularni qaytarish</h1>
+        <p>darsda juda kop mavzularni korib chiqdig.Asoysi otgan mavzularimiz: Internet,sayt qanday ishlashi,VScode qanday foydalanish,GIT/GITHUB va FreeCodeCamp saytan foydalanish HTML boycha mashqlar boldi</p>
+        <ul>
+            <li>Browther</li>
+            <li>Internet qanday ishlashi</li>
+            <li>Sayt qanday ishlashi</li>
+            <li>HTML</li>
+        </ul>
+        <h2>Browther haqida:</h2>
+        <p>browther bu-saytga kiruvchi imkoniyatini beradigan dastur</p>
+        <h3>Browtherga musollar:</h3>
+        <ol>
+            <li>Google CHrome</li>
+            <li>Firefox</li>
+            <li>Safari</li>
+            <li>Opera</li>
+        </ol>
+        <h4>Rasmlar orqali organamiz:</h4>
+    </body>
+</head>
+
+
+
+
+
+
+
+
